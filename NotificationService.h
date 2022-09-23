@@ -2,8 +2,8 @@
 //  NotificationService.h
 //  NotificationService
 //
-//  Created by zoujing@gogpay.cn on 2020/4/21.
-//  Copyright © 2020 cn.gogpay.dcb. All rights reserved.
+//  Created by zoujing on 2020/4/21.
+//  Copyright © 2020 gleen. All rights reserved.
 //
 
 #import <UserNotifications/UserNotifications.h>
